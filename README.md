@@ -1,6 +1,6 @@
 # Api RestFULL Curso Udemy
 
-- Api desenvolvida pelo curso da Udemy desenvolvida juntamente com o professor *Leandro Costa* utilizando a linguagem Java juntamente do framework Spring boot com integração ao swagger, bando de dados Mysql e flyway para criação e versionamento do banco com migrations.
+- Api desenvolvida pelo curso da Udemy desenvolvida juntamente com o professor *Leandro Costa* utilizando a linguagem Java juntamente do framework Spring boot com integração ao swagger, banco de dados Mysql e flyway para criação e versionamento do banco com migrations.
 
 ## Ferramentas, Frameworks e bibliotecas
 
